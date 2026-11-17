@@ -1,0 +1,40 @@
+cmd/external-plugins/cherrypicker/server_test.go
+  s_9c9d45acc0d5b7::t_ff0b821bf058c6 55-56,219-222
+  s_9c9d45acc0d5b7::t_5f1a9af33db7bd 345-354
+  s_9c9d45acc0d5b7::t_c2215de79e6457 321
+  s_9c9d45acc0d5b7::t_f13222165739e3 614,617-618,621-622,726,742-743
+  s_9c9d45acc0d5b7::t_f39f8b8e468af5 324-325,327,329,358-360,365-370,372-374,380-382,387-392,394-396,399-401,409-411,744,772
+  s_9c9d45acc0d5b7::t_da989a72527b4c 595,619-620
+  s_9c9d45acc0d5b7::t_66e94d70d8378a 223,319-320,322-323,326,328,330-344,355-357,361-364,371,375-379,383-386,393,397-398,402-408,412-413
+  s_9c9d45acc0d5b7::t_3122c4277610c8 615,770-771
+  s_9c9d45acc0d5b7::t_2c514ca079f5b0 616
+  s_9c9d45acc0d5b7::t_213c7456cea42c 224
+cmd/external-plugins/cherrypicker/server.go
+  s_9c9d45acc0d5b7::t_da989a72527b4c 200,212
+  s_9c9d45acc0d5b7::t_ff0b821bf058c6 66,78,172-181,198,201-211,213-215,219-222,483-491,554,556
+  s_9c9d45acc0d5b7::t_f8072223bb3aba 508,553
+  s_9c9d45acc0d5b7::t_f39f8b8e468af5 199,216-218
+  s_9c9d45acc0d5b7::t_b06051a784954a 547-552,555
+  s_9c9d45acc0d5b7::t_ea571f47476fd9 492
+site/content/en/docs/components/external-plugins/cherrypicker.md
+  s_9c9d45acc0d5b7::t_da989a72527b4c 11-17
+  s_9c9d45acc0d5b7::t_1207a4dc807a44 28-31
+  s_9c9d45acc0d5b7::t_3122c4277610c8 10,19,32-43
+  s_9c9d45acc0d5b7::t_798d847e14f8e9 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "25e9f156482ba57b512256898c7dcd2cf5c8e2ea",
+  "prompts": {},
+  "sessions": {
+    "s_9c9d45acc0d5b7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e72d-0108-7782-bb11-030d224fa4b2",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
