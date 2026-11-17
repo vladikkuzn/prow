@@ -1,0 +1,24 @@
+cmd/external-plugins/cherrypicker/server_test.go
+  s_8da31bb02bd69b::t_eb015faa4a8e10 26,331,410-411,415-417,420-430,432-434,441,448
+  s_8da31bb02bd69b::t_9d0b95843bd857 336-338,412-414,418-419,431,435-440,442-447,449
+  s_8da31bb02bd69b::t_882e238dddda52 450-451
+cmd/external-plugins/cherrypicker/server.go
+  s_8da31bb02bd69b::t_49b46bd74001f7 208,493
+  s_8da31bb02bd69b::t_9d57021efeffb4 494
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "32418fa5ac8feb3d592ca4f8084cf10cf3bff98c",
+  "prompts": {},
+  "sessions": {
+    "s_8da31bb02bd69b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e74f-5315-7820-a901-ef7b9932145a",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
