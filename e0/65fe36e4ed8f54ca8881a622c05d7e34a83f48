@@ -1,0 +1,21 @@
+cmd/external-plugins/cherrypicker/server.go
+  s_3f38ae2158aa97::t_85d9c76f9e2b92 212
+cmd/external-plugins/cherrypicker/server_test.go
+  s_3f38ae2158aa97::t_85d9c76f9e2b92 636
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e065fe36e4ed8f54ca8881a622c05d7e34a83f48",
+  "prompts": {},
+  "sessions": {
+    "s_3f38ae2158aa97": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e71a-47eb-7fe0-bf85-adc59f4d3b40",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
